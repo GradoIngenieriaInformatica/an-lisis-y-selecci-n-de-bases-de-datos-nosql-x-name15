@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+SERIES DE TIEMPO | Millones de registros indexados por fecha y hora, optimizado para consultas temporales

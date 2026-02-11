@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+DOCUMENTOS | Flexibilidad para estructuras no uniformes, metadatos variables y manejo de versiones

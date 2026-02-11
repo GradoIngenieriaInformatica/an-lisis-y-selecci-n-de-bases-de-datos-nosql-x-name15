@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+GRAFOS | Relaciones altamente conectadas entre nodos (paradas de transporte, rutas y caminos alternativos)
